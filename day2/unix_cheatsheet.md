@@ -1,12 +1,11 @@
-# Navigating your computer: basic UNIX.
-<br><br>
+# UNIX Cheatsheet
 
-## Directory
+### Directory
   - A *folder* on your computer which contains files. UNIX filesystems are organized as hierarchical directories. 
   - Forward slashes divide levels in the nested hierarchy of directories, e.g. `/top_level_directory/second_level_directory`
   - The directory at the top of this hierarchy is called the **root** directory and is denoted simply as `/`. 
 
-## Path
+### Path
   - The *address* to a directory or file on your computer. There are, generally, two types of paths:
     - **Absolute/full path** represents the path of a given directory/file beginning at the root directory.
     - **Relative path** represents the path of a given directory/file relative to the working/current directory.
@@ -46,20 +45,21 @@ Command | Description
 Command | Description 
 -------|--------------
 `history`| View history of recent past commands
+`sudo` | **S**uper **U**ser **do** (pronouced "soo-doe"). [Explanatory XKCD](https://xkcd.com/149/).
 `wc`   | Count the number of characters, words, and/or lines in a file (aka **w**ord **c**ount)
 `grep` | **g**lobal **r**egular <br> **e**xpression **p**arser
 `sort` | Sort contents of file
 `uniq` | Save only unique lines in file; *must be sorted first*
-`cut` | Select column(s) (i.e. csv or tab-delimited) from a file. Use argument `-f` to specify which field(s) to retain and `-d` to specify the specific delimiter
+`cut` | Select column(s) (i.e. csv or tab-delimited) from a file. <br>Use argument `-f` to specify which field(s) to retain and `-d` to specify the specific delimiter
 
 ## Shortcuts and symbols
 
-Shortcut | Use
+Shortcut/symbol | Description
 ----------|-----
-Ctrl + C | Kills current process/command
+`Ctrl + C` | Kills current process/command
 `*` | wildcard character
-tab key | autocomplete word
-Up Arrow | scroll back through previous commands
+`tab` (tab key) | autocomplete word
+`↑` (up arrow)| scroll back through previous commands
 `.` | Current directory
 `..` | One directory level up 
 `~` | Home directory
