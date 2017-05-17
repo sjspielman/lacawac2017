@@ -38,6 +38,15 @@ Given a *multiple sequence alignment* containing protein-coding sequences and a 
 We will learn about to address these and related questions using [HyPhy](http://hyphy.org), via the [Datamonkey webserver](datamonkey.org).
 > Note: Newer analyses like BUSTED, aBSREL, and RELAX, are only available via the [development Datamonkey webserver](test.datamonkey.org).
 
+
+These papers provide excellent overviews (with technical details as well) of phylogenetic codon models:
+
++ [Investigating Protein-Coding Sequence Evolution with Probabilistic Codon Substitution Models 
+](https://doi.org/10.1093/molbev/msn232)
++ [Trends in Substitution Models of Molecular Evolution](https://dx.doi.org/10.3389/fgene.2015.00319)
++ If you want to dive in as much as possible, this book is the definitive overview of molecular evolution, including codon models: [Computational Molecular Evolution](https://www.amazon.com/Molecular-Evolution-Statistical-Ziheng-Yang/dp/0199602611/ref=pd_cp_14_1?_encoding=UTF8&pd_rd_i=0199602611&pd_rd_r=YDZH0B4YMAH1P0W9T4FQ&pd_rd_w=YqzqK&pd_rd_wg=EIazf&psc=1&refRID=YDZH0B4YMAH1P0W9T4FQ)
+
+
 ### May 26th: Introduction to Computing
 
 
