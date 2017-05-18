@@ -5,6 +5,8 @@
 ### Regular expressions are the superheroes of text search and/or replace. With great regular expressions comes great text file manipulation.
 
 
+## Basic regular expressions
+
 Regular Expression | Meaning 
 -------------------|---------
 `\w`               | Letter, number, or underscore  |
@@ -18,6 +20,8 @@ Regular Expression | Meaning
 `\s`               | Any type of whitespace
 `\S`               | Anything **not** whitespace
 `.`                | Wildcard (matches anything)
+
+## Symbols and quanitifiers
 
 Regular Expression add-ons | Meaning | Example
 -------------------|---------|---------

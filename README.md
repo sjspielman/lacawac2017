@@ -66,8 +66,8 @@ Method | Input data | Datamonkey Version | Result page(s)*
 -------|------------|-------------|------------
 BUSTED | [CD2](./day1/cd2_hyphy_input.txt) | [test.datamonkey.org](test.datamonkey.org) | [Subset FG Results](http://test.datamonkey.org/busted/591c9f81c0fbab8023e7bdc3) and [All FG Results](http://test.datamonkey.org/busted/591ca1ebc0fbab8023e7bdd4)
 aBSREL | [Borna](./day1/borna_hyphy_input.txt) | [test.datamonkey.org](test.datamonkey.org)
-RELAX  | [Borna](./day1/borna_hyphy_input.txt) | [test.datamonkey.org](test.datamonkey.org)
-yFEL    | [CD2](./day1/cd2_hyphy_input.txt) |  [datamonkey.org](datamonkey.org)
+RELAX  | [Borna](./day1/borna_hyphy_input.txt) | [test.datamonkey.org](test.datamonkey.org) | [Results](http://test.datamonkey.org/relax/591c9ef7c0fbab8023e7bd98)
+FEL    | [CD2](./day1/cd2_hyphy_input.txt) |  [datamonkey.org](datamonkey.org)
 MEME   | [CD2](./day1/cd2_hyphy_input.txt) | [datamonkey.org](datamonkey.org)
 
 **\*Note**: Some of these links will expire a few days after this workshop, so please re-run analyses in the future.
