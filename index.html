@@ -1,0 +1,19 @@
+---
+layout: default
+title: home
+---
+
+<div id="home">
+
+  <h1>Welcome!</h1>
+  <p style="font-size:20px">
+    This website contains materials for sessions led by <a href="http://sjspielman.org">Stephanie Spielman</a> during the Ecological Function Genomics Workshop at Lacawac Sanctuary during May 25-26, 2017.   
+  </p>
+<br><br>
+  <h1>Course Materials</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li style="font-size:19px"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>

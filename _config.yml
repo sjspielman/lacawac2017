@@ -1,1 +1,11 @@
-theme: jekyll-theme-cayman
+# Setup
+name:         Lacawac 2017
+tagline:      Materials for Stephanie's sessions
+baseurl:      "/lacawac2017"
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
