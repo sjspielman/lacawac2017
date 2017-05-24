@@ -1,0 +1,6 @@
+latdeg	latmin	longdeg	longmin
+9	59.8S	157	58.2W
+21	17.4N	157	51.6W
+38	30.5N	28	17.2W
+40	46.1N	14	15.8E
+10	24.8N	51	21.9E
