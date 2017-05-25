@@ -8,6 +8,7 @@ category: cheatsheets
 Many of these resources go beyond the scope of this workshop, but all are incredibly useful for your future endeavors in biocomputing!
 
 + The [Unix Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/) is a great resource and starting point for getting comfortable with the command-line environment. 
++ This super weird [Unix intro PDF](http://unixmages.com/ufbm.pdf) is probably excellent, but clearly written by the nerdiest of nerds.
 + [Software Carpentry](https://software-carpentry.org/lessons/) offers lots of open-source lessons and tutorials for scientific computing skills (github, Python, command line, R, SQL, and more!)
 + [Google](google.com) is easily the most valuable resource for figuring things out. If you encounter an issue, chances are somebody else has also encountered it and has asked about it. 
 
